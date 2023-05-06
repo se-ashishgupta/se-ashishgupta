@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN Stack, Compitative Programming**
 
-- 👨‍💻 All of my projects are available at [http://ashishweb.tech/](http://ashishweb.tech/)
+- 👨‍💻 All of my projects are available at [https://leetcode.com/gashish4950/](https://leetcode.com/gashish4950/)
 
 - 💬 Ask me about **MERN STACK**
 
