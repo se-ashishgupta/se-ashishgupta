@@ -21,7 +21,7 @@
 <a href="https://linkedin.com/in/ashish-gupta-18a8b7210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashish-gupta-18a8b7210" height="30" width="40" /></a>
 <a href="https://instagram.com/_gupta_._ashish_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_gupta_._ashish_" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/ashishgupta02" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ashishgupta02" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/gashish4950" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg](https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" alt="gashish4950" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/gashish4950" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/41718343?s=280&v=4" alt="gashish4950" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
