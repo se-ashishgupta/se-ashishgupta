@@ -18,11 +18,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/gashish4950" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gashish4950" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ashish-gupta-18a8b7210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashish-gupta-18a8b7210" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/se-ashishgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashish-gupta-18a8b7210" height="30" width="40" /></a>
 <a href="https://instagram.com/_gupta_._ashish_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_gupta_._ashish_" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/ashishgupta02" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ashishgupta02" height="30" width="40" /></a>
-<a href="https://leetcode.com/gashish4950/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png" alt="gashish4950" height="30" width="40" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/gashish4950" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/2560px-GeeksforGeeks.svg.png" alt="gashish4950" height="30" width="40" /></a>
+<a href="https://leetcode.com/se-ashishgupta" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png" alt="gashish4950" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
