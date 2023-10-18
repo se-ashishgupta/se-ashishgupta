@@ -1,11 +1,11 @@
 # Ashish-Gupta
 ![](banner.jpg)
 <h1 align="center">Hi 👋, I'm Ashish Gupta</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center">A passionate Software Engineer and Full Stack Web Developer from India</h3>
 <img align="right" alt="coding" width="350" src="https://cdn-fphbc.nitrocdn.com/qoghzuucXCXzuGelskqTYEjAMqwfiisP/assets/images/optimized/rev-23e383c/wp-content/uploads/2022/01/Back-End-Developer-Node-JS-1.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=se-ashishgupta&label=Profile%20views&color=0e75b6&style=flat" alt="se-ashishgupta" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack, Compitative Programming**
+- 🌱 I’m currently learning **NextJs, TypeScript, Compitative Programming**
 
 - 👨‍💻 All of my projects are available at [https://creativeprogrammer.onrender.com](https://creativeprogrammer.onrender.com)
 
