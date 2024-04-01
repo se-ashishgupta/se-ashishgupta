@@ -17,7 +17,7 @@
     <a href="https://auth.geeksforgeeks.org/user/seashishgupta">
       <img src="https://img.shields.io/badge/GeeksforGeeks-green?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" alt="GeeksforGeeks Badge"/>
     </a>
-    <a href="https://leetcode.com/seashishgupta">
+    <a href="https://leetcode.com/se-ashishgupta">
       <img src="https://img.shields.io/badge/Leetcode-yellow?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
     </a>
   </div>
@@ -31,7 +31,7 @@ Hey there 👋 Welcome to my Github Profile! I'm a Geeky Computer Science enthus
 - 🌱 I’m currently learning **NextJs, TypeScript, Compitative Programming**
 - 👨‍💻 All of my projects are available at [https://creativeprogrammer.onrender.com](https://creativeprogrammer.onrender.com)
 - 💬 Ask me about **MERN STACK**
-- 📫 How to reach me **gashish4950@gmail.com**
+- 📫 How to reach me **seashishgupta@gmail.com**
 - ⚡ Fun fact **I think i am Funny 😎**
 
 ## 💻 Tech Enthusiast
