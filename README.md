@@ -36,7 +36,7 @@ Hey there 👋 Welcome to my Github Profile! I'm a Geeky Computer Science enthus
 
 ## 💻 Tech Enthusiast
 
-- 💡 Java, C++, and Python are my weapons of choice for software development.
+- 💡 C++, and JavaScript are my weapons of choice for software development.
 - 🕸 Skilled in Web technologies ReactJs, Redux, Tailwind CSS, NodeJs, ExpressJs, MongoDB
 - ⚙️ Enjoy working on backend logic to bring projects to life
 - 🚀 Sharpening my DSA skills
@@ -57,11 +57,12 @@ I'm an advocate for open source software and love contributing to projects that 
 - 🌐 Explore the ever-evolving world of technology with me.
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/se-ashishgupta) or [GitHub](https://github.com/se-ashishgupta).
 - <p align="left">
-  <a href="https://twitter.com/gashish4950" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gashish4950" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/se-ashishgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashish-gupta-18a8b7210" height="30" width="40" /></a>
-  <a href="https://instagram.com/_gupta_._ashish_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_gupta_._ashish_" height="30" width="40" /></a>
-  <a href="https://www.codechef.com/users/ashishgupta02" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ashishgupta02" height="30" width="40" /></a>
   <a href="https://leetcode.com/se-ashishgupta" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png" alt="gashish4950" height="30" width="40" /></a>
+  <a href="https://twitter.com/seashishgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="seashishgupta" height="30" width="40" /></a>
+  <a href="https://instagram.com/se_ashishgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="se_ashishgupta" height="30" width="40" /></a>
+  <!-- <a href="https://www.codechef.com/users/ashishgupta02" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ashishgupta02" height="30" width="40" /></a> -->
+
   </p>
 
 ## :fire: My Stats :
