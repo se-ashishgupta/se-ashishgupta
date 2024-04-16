@@ -46,7 +46,7 @@ Hey there 👋 Welcome to my Github Profile! I'm a Geeky Computer Science enthus
 
 - Frontend: React, Redux, Tailwind CSS, JavaScript, HTML, CSS, SCSS
 - Backend: Node JS, Express JS, Cloudinary, Razorpay, Nodemailer, BcryptJs, Jsonwebtoken
-- Developer Tools: Linux, AWS (EC2) Nginx, Git, Postman, VS Code,
+- Developer Tools: Linux, AWS (EC2), Nginx, Git, Postman, VS Code,
 
 ## 🌟 Open Source Contributor
 
