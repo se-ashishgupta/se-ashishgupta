@@ -28,25 +28,25 @@
 
 Hey there 👋 Welcome to my Github Profile! I'm a Geeky Computer Science enthusiast majoring in BTech. Fuelled by a passion for innovation with a deep love for Web and Software development. I'm driven to elevate my technical and problem-solving skills + Learning Something New everyday ✨
 
-- 🌱 I’m currently learning **NextJs, TypeScript, Compitative Programming**
-- 👨‍💻 All of my projects are available at [https://creativeprogrammer.onrender.com](https://creativeprogrammer.onrender.com)
-- 💬 Ask me about **MERN STACK**
+- 🌱 I’m currently learning **NextJs, TypeScript, Compitative Programming, DSA**
+- 👨‍💻 All of my projects are available at [https://creativeprogrammer.vercel.app](https://creativeprogrammer.vercel.app)
+- 💬 Ask me about **Software Development**
 - 📫 How to reach me **seashishgupta@gmail.com**
 - ⚡ Fun fact **I think i am Funny 😎**
 
 ## 💻 Tech Enthusiast
 
 - 💡 C++, and JavaScript are my weapons of choice for software development.
-- 🕸 Skilled in Web technologies ReactJs, Redux, Tailwind CSS, NodeJs, ExpressJs, MongoDB
+- 🕸 Skilled in Web technologies, AI Integration, AI ChatBot
 - ⚙️ Enjoy working on backend logic to bring projects to life
 - 🚀 Sharpening my DSA skills
 - 🔧 Constantly improving technical skills.
 
 ## 🛠️ Tools & Technologies
 
-- Frontend: React, Redux, Tailwind CSS, JavaScript, HTML, CSS, SCSS
-- Backend: Node JS, Express JS, Cloudinary, Razorpay, Nodemailer, BcryptJs, Jsonwebtoken
-- Developer Tools: Linux, AWS (EC2), Nginx, Git, Postman, VS Code,
+- Frontend: React, Redux, Tailwind CSS, JavaScript, HTML, CSS, SCSS, MUI
+- Backend: Node JS, Express JS, Cloudinary, Razorpay, Nodemailer, BcryptJs, Jsonwebtoken, MongoDB, PostgresSQL, Redis
+- Developer Tools: Linux, AWS (EC2), Nginx, Git, Postman, VS Code, Docker, CI/CD
 
 ## 🌟 Open Source Contributor
 
