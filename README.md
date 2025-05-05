@@ -75,11 +75,4 @@ I'm an advocate for open source software and love contributing to projects that 
 
 #### 📊 LeetCode Stats
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-    <div>
-        <h4>Total Solved Problems</h4>
-        <a href="https://leetcode.com/se-ashishgupta/">
-            <img src="https://leetcode-stats-six.vercel.app/api?username=se-ashishgupta&hide=total-submissions&ac_lang=Python" alt="LeetCode solved" />
-        </a>
-    </div>
-</div>
+[![LeetCode Stats](https://leetcard.jacoblin.cool/se-ashishgupta?theme=light&font=baloo&ext=heatmap)](https://leetcode.com/se-ashishgupta/)
