@@ -75,4 +75,4 @@ I'm an advocate for open source software and love contributing to projects that 
 
 #### 📊 LeetCode Stats
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/se-ashishgupta?theme=light&font=baloo&ext=heatmap)](https://leetcode.com/se-ashishgupta/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/se-ashishgupta?theme=dark&font=baloo&ext=contest)](https://leetcode.com/se-ashishgupta/)
