@@ -71,8 +71,6 @@ I'm an advocate for open source software and love contributing to projects that 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=se-ashishgupta&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&card_width=500)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=se-ashishgupta&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 #### 📊 LeetCode Stats
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/se-ashishgupta?theme=dark&font=baloo&ext=contest)](https://leetcode.com/se-ashishgupta/)
