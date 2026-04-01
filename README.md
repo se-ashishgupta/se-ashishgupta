@@ -29,7 +29,7 @@
 Hey there 👋 Welcome to my Github Profile! I'm a Geeky Computer Science enthusiast majoring in BTech. Fuelled by a passion for innovation with a deep love for Web and Software development. I'm driven to elevate my technical and problem-solving skills + Learning Something New everyday ✨
 
 - 🌱 I’m currently learning **NestJs, Compitative Programming, DSA, Kubernetes**
-- 👨‍💻 All of my projects are available at [https://creativeprogrammer.vercel.app](https://creativeprogrammer.vercel.app)
+- 👨‍💻 All of my projects are available at [https://creativeprogrammer.vercel.app](https://www.seashishgupta.in)
 - 💬 Ask me about **Software Development**
 - 📫 How to reach me **seashishgupta@gmail.com**
 - ⚡ Fun fact **I think i am Funny 😎**
